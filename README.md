@@ -1,4 +1,4 @@
-# uber-hypothesis-testing
+# uber-marketing-campaigns-experiment
 
 ## Purpose
 Design and create the hypothesis testing, to analyze the SFO and LAX data sets, determine if either marketing campaign was successful in raising the average miles driven per Uber driver.
